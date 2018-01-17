@@ -1,11 +1,4 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-//"use strict"
-//get all elements that have the class name ripple
+//get all elements that have the class name rippleJs
 var objects = document.getElementsByClassName("rippleJs");
 var i;
 //Run ripple function for each element
